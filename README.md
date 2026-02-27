@@ -5,15 +5,15 @@
 
 | Internal Release Code | Date Released |
 |-----------------------|---------------|
-| AB.010.000            | 2026-02-27    |
-| AB.010.001            | 2026-02-27    |
+| AV.010.000            | 2026-02-27    |
+| AV.010.001            | 2026-02-27    |
 | ...                   | ...           |
 
-## AB.010.0001 Release Notes
+## AV.010.001 Release Notes
 * https://github.com/joricxxx/anvil
 * update README
 
-## AB.010.000 Release Notes
+## AV.010.000 Release Notes
 * Insert all commit messages here...
 
 Important Links:  
